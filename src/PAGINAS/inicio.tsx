@@ -9,7 +9,7 @@ import heroImage from "@/IMAGENS/imagem-principal.jpg";
 
 const DADOS_DO_GRUPO = {
   titulo: "Semáforos = cruzamentos de carros ",                    // ← Troque pelo título
-  descricao: "O trabalho representa um cruzamentos de carros com semáforos, que organizam o trânsito e evitam acidentes, as cores indicam quando parar ter atenção ou seguir ",   // ← Troque pela descrição
+  descricao: "O trabalho representa um cruzamentos de carros com semáforos, que organizam o trânsito e evitam acidentes, as cores indicam quando parar, ter atenção ou seguir ",   // ← Troque pela descrição
   materias: ["Programação", "Física", "Robótica"], // ← Troque pelas matérias
   videoYouTube: "22nd99SLgNA",                     // ← ID do vídeo do YouTube (o que vem depois do v=)
   imagem: "imagem-principal.jpg",                  // ← Nome da imagem na pasta IMAGENS
