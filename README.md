@@ -29,8 +29,8 @@ Importante: O bloco abaixo é a parte mais importante do código para o seu grup
 // 
 
 const DADOS_DO_GRUPO = {
-  titulo: "TÍTULO DO TRABALHO",                    // ← Troque pelo título
-  descricao: "DESCRIÇÃO BÁSICA DO SEU TRABALHO",   // ← Troque pela descrição
+  titulo: "Semáforos = cruzamento de carros.",                    // ← Troque pelo título
+  descricao: "È um dispositivo luminoso que organiza o trânsito,alternando o direito de passagem dos veículos para evitar batidas e garantir segurança. ",   // ← Troque pela descrição
   materias: ["Programação", "Física", "Robótica"], // ← Troque pelas matérias
   videoYouTube: "https://www.youtube.com/watch?v=22nd99SLgNA&t=17s",                    // ← ID do vídeo do YouTube
   imagem: "imagem-principal.jpg",                  // ← Nome da imagem na pasta IMAGENS
